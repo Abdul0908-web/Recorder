@@ -1,5 +1,9 @@
 # 🎥 Python Screen Recorder (MSS + CustomTkinter)
 
+<p align="center">
+  <img src="screenshot.png" alt="App Screenshot" width="450">
+</p>
+
 A fast, lightweight desktop screen recording application built entirely in Python. This project upgrades traditional `pyautogui` screen grabbing methods to use the high-performance `mss` library, allowing for smooth video capture alongside a modern, responsive Graphical User Interface (GUI).
 
 ## ✨ Features
